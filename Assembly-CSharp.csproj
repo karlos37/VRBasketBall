@@ -753,17 +753,17 @@
     <Reference Include="Meta.XR.Editor.Tags">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.XR.Editor.Tags.dll</HintPath>
     </Reference>
-    <Reference Include="VoiceSDK.Telemetry">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/VoiceSDK.Telemetry.dll</HintPath>
-    </Reference>
     <Reference Include="Meta.WitAi.Conduit">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.WitAi.Conduit.dll</HintPath>
     </Reference>
-    <Reference Include="VoiceSDK.Dictation.Editor">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/VoiceSDK.Dictation.Editor.dll</HintPath>
+    <Reference Include="VoiceSDK.Telemetry">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/VoiceSDK.Telemetry.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Wit.Composer.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.Wit.Composer.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="VoiceSDK.Dictation.Editor">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/VoiceSDK.Dictation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.UserInterface">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.XR.Editor.UserInterface.dll</HintPath>
@@ -801,8 +801,8 @@
     <Reference Include="Oculus.Interaction.InterfaceSupport">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Oculus.Interaction.InterfaceSupport.dll</HintPath>
     </Reference>
-    <Reference Include="Meta.VoiceSDK.Mic.Other">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.VoiceSDK.Mic.Other.dll</HintPath>
+    <Reference Include="Oculus.VR.Scripts.Editor">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Oculus.VR.Scripts.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.OVR">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Oculus.Interaction.OVR.dll</HintPath>
@@ -810,26 +810,26 @@
     <Reference Include="Oculus.Platform.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Oculus.Platform.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Oculus.VR.Scripts.Editor">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Oculus.VR.Scripts.Editor.dll</HintPath>
+    <Reference Include="meta.xr.sdk.sharedassets.editor">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/meta.xr.sdk.sharedassets.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
-    <Reference Include="Oculus.Interaction.OVR.Editor">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Oculus.Interaction.OVR.Editor.dll</HintPath>
+    <Reference Include="Meta.VoiceSDK.Mic.Other">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.VoiceSDK.Mic.Other.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.Conduit.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.WitAi.Conduit.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="meta.xr.sdk.sharedassets.editor">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/meta.xr.sdk.sharedassets.editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    <Reference Include="Oculus.Interaction.OVR.Editor">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Oculus.Interaction.OVR.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.Samples.WitShapes">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.Voice.Samples.WitShapes.dll</HintPath>
@@ -849,14 +849,14 @@
     <Reference Include="Meta.XR.BuildingBlocks">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.XR.BuildingBlocks.dll</HintPath>
     </Reference>
-    <Reference Include="Meta.Voice.VSDKHub.Editor">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.Voice.VSDKHub.Editor.dll</HintPath>
+    <Reference Include="Oculus.VR.Editor">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Oculus.VR.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.WitAi.dll</HintPath>
     </Reference>
-    <Reference Include="Oculus.VR.Editor">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Oculus.VR.Editor.dll</HintPath>
+    <Reference Include="Meta.Voice.VSDKHub.Editor">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.Voice.VSDKHub.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.WitAi.Editor.dll</HintPath>
@@ -873,14 +873,14 @@
     <Reference Include="VoiceSDK.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/VoiceSDK.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Meta.Wit.Composer">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.Wit.Composer.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.TTS.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.WitAi.TTS.Editor.dll</HintPath>
@@ -894,11 +894,11 @@
     <Reference Include="meta.xr.mrutilitykit">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/meta.xr.mrutilitykit.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
@@ -909,20 +909,20 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
-    <Reference Include="Meta.XR.Editor.StatusMenu">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.XR.Editor.StatusMenu.dll</HintPath>
-    </Reference>
     <Reference Include="VoiceSDK.Editor.Composer">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/VoiceSDK.Editor.Composer.dll</HintPath>
+    </Reference>
+    <Reference Include="Meta.XR.Editor.StatusMenu">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.XR.Editor.StatusMenu.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.Lib">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.WitAi.Lib.dll</HintPath>
@@ -930,14 +930,14 @@
     <Reference Include="Unity.VisualScripting.Flow.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Meta.Voice.Hub.Runtime">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.Voice.Hub.Runtime.dll</HintPath>
+    <Reference Include="VoiceSDK.Runtime.Composer">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/VoiceSDK.Runtime.Composer.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Platform">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Oculus.Platform.dll</HintPath>
     </Reference>
-    <Reference Include="VoiceSDK.Runtime.Composer">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/VoiceSDK.Runtime.Composer.dll</HintPath>
+    <Reference Include="Meta.Voice.Hub.Runtime">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.Voice.Hub.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.Hub.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.Voice.Hub.Editor.dll</HintPath>
@@ -978,11 +978,11 @@
     <Reference Include="Meta.WitAI.Lib.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.WitAI.Lib.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Meta.Voice.Samples.WitResponseDebugger">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.Voice.Samples.WitResponseDebugger.dll</HintPath>
-    </Reference>
     <Reference Include="Oculus.Interaction.OVR.Samples">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Oculus.Interaction.OVR.Samples.dll</HintPath>
+    </Reference>
+    <Reference Include="Meta.Voice.Samples.WitResponseDebugger">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.Voice.Samples.WitResponseDebugger.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
@@ -990,11 +990,11 @@
     <Reference Include="Unity.AI.Navigation.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.AI.Navigation.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.State">
-      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
-    </Reference>
     <Reference Include="Oculus.Haptics.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Oculus.Haptics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.State">
+      <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.GuidedSetups.Editor">
       <HintPath>/Users/vedanshsurjan/Documents/UnityProjects/VRBasketBall/Library/ScriptAssemblies/Meta.XR.GuidedSetups.Editor.dll</HintPath>
