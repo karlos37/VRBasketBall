@@ -10,9 +10,9 @@ public class AddBasket : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        // if (other.gameObject.layer != 3)
-        // {
+        if (other.gameObject.layer != 3)
+        {
             countBaskets.IncreaseScore();
-        // }
+        }
     }
 }
