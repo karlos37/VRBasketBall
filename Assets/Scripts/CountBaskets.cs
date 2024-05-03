@@ -9,11 +9,11 @@ public class CountBaskets : MonoBehaviour
     
     private int _initialScore;
 
-    private TextMeshPro _textMeshPro;
+    private TextMeshProUGUI _textMeshPro;
     private void Start()
     {
         var found = score.TryGetComponent(out _textMeshPro);
-        print(found ? "Found text " : "Did not find textMeshPro");
+        Debug.Log(found ? "Found text in count basket" : "Did not find textMeshPro in count basket");
     }
     public void IncreaseScore()
     {
